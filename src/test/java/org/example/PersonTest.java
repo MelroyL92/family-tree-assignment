@@ -13,7 +13,7 @@ class PersonTest {
 
         // arrange
         Person person = new Person("base line", "n.v.t.", "bullshit", "500");
-        Person mother = new Person("karen", "bitch", "female", "50");
+        Person mother = new Person("karen", "woman", "female", "50");
         Person father = new Person("john", "doe", "male", "55");
 
         // act
